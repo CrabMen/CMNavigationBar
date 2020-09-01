@@ -1,0 +1,27 @@
+PODS:
+  - CMNavigationBar (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - CMNavigationBar (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  CMNavigationBar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CMNavigationBar: 4f3b219bff0a180c63775a7d0c9c4fcf0a82aabf
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 2bcb02b2cbc4c8509c79b038922664bbf137bc31
+
+COCOAPODS: 1.9.1

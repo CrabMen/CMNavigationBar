@@ -1,0 +1,6 @@
+framework module Pods_CMNavigationBar_Tests {
+  umbrella header "Pods-CMNavigationBar_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
